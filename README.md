@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming & Scripting  
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
@@ -29,7 +29,7 @@
 </p>
 
 ### ⚙️ Frameworks & Tools  
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
@@ -41,14 +41,14 @@
 Gin • FastAPI • GoReleaser • SQLC • Goose • Air  
 
 ### ☁️ Cloud & DevOps  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
 </p>
 
 ### 🗄️ Databases  
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
 </p>
@@ -58,7 +58,7 @@ Gin • FastAPI • GoReleaser • SQLC • Goose • Air
 ## 🌟 Featured Projects  
 
 ### 🏢 [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Organization"/>  
 </p>
 > Open-source organization for backend, cloud, and automation projects.  
@@ -66,7 +66,7 @@ Gin • FastAPI • GoReleaser • SQLC • Goose • Air
 ---
 
 ### 🦫 [Go Projects](https://github.com/NithinAug/GO)
-<p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go Projects"/>  
 </p>
 > A collection of Go-based microservices, automation tools, and backend experiments.  
