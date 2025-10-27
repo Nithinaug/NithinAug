@@ -34,16 +34,8 @@ PostgreSQL • Redis
 
 ---
 
-## 📊 GitHub Stats  
-
-![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinAug&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=NithinAug&theme=tokyonight)  
-
----
-
 ## 📈 Total Commits This Year  
-![Total Commits](https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=false&theme=tokyonight&hide_title=true&hide=prs,issues,contribs)  
+![Total Commits](https://github-readme-streak-stats.herokuapp.com?user=NithinAug&theme=tokyonight)  
 
 ---
 
@@ -65,4 +57,4 @@ PostgreSQL • Redis
 ## 🧭 Fun Fact  
 I love automating boring tasks and deploying scalable systems — one container at a time! 🐳  
 
-⭐️ *“Build. Automate. Scale.”*
+⭐️ *“Build. Automate. Scale.”*  
