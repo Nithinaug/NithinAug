@@ -32,17 +32,7 @@ AWS • GitHub Actions • CI/CD • Terraform
 ### 🗄️ Databases  
 PostgreSQL • Redis  
 
----
 
-## 📈 Total Commits This Year  
-![Total Commits](https://github-readme-streak-stats.herokuapp.com?user=NithinAug&theme=tokyonight)  
-
----
-
-## 📊 Dynamic Contribution Summary  
-<img src="https://raw.githubusercontent.com/NithinAug/NithinAug/main/github-metrics.svg" alt="Metrics" width="100%">  
-
----
 
 ## 🌟 Featured Projects  
 
