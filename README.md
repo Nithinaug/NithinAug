@@ -1,101 +1,74 @@
-<h1 align="center">👋 Hey there, I'm Nithin Augustine</h1>
+# 👋 Hi, I'm Nithin Augustine  
 
-<p align="center">
-  <b>BTech CSE @ CUSAT | Backend Developer | Go & Python Enthusiast | Cloud + DevOps Explorer</b>
-</p>
+🚀 **Backend Developer | Cloud & DevOps Enthusiast**  
+📍 Kochi, India  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NithinAug&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views" />
-</p>
+---
+
+### 🧠 About Me
+- 💻 Passionate about **Backend Development**, **Cloud Infrastructure**, and **DevOps Automation**  
+- 🐍 Experienced with **Python**, **Go**, and **PostgreSQL**  
+- ☁️ Exploring AWS, Docker, Kubernetes & CI/CD pipelines  
+- ⚡ Always learning and building scalable backend systems  
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/nithin-augustine-28bb56328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nithinaug@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/hackstreet-hackathon" target="_blank">
-    <img src="https://img.shields.io/badge/Hackstreet%20Hackathon-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/NithinAug">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithin-augustine-28bb56328/)  
+- ✉️ Email: **nithinaug@gmail.com**  
+- 🏢 Organization: **Hackstreet Hackathon**
 
 ---
 
-### 🧑‍💻 About Me
-I’m a **Backend Developer** passionate about building robust, scalable, and high-performance systems.  
-Currently exploring **Cloud Infrastructure**, **DevOps automation**, and **microservice architectures** using **Go**, **Python**, **Docker**, and **PostgreSQL**.  
+### 🛠️ Tech Stack
 
-I enjoy working on backend logic, API design, and CI/CD pipelines — with a growing interest in **distributed systems** and **cloud-native technologies**.  
-I’m also part of the **Hackstreet Hackathon** organization, where we collaborate on impactful tech projects.
+#### 💻 Programming & Scripting  
+`Python` • `Go` • `C++` • `JavaScript`  
 
----
+#### ⚙️ Frameworks & Tools  
+`Gin` • `FastAPI` • `Docker` • `Kubernetes` • `GoReleaser` • `SQLC` • `Goose` • `Air`  
 
-### 🧰 My Tech Toolbox
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,postgres,docker,linux,html,css,js,cpp,git,figma,vscode,github,aws" />
-</p>
+#### ☁️ Cloud & DevOps  
+`AWS` • `GitHub Actions` • `CI/CD` • `Terraform`  
 
----
-
-<details>
-  <summary>🚀 Featured Projects</summary>
-  <br>
-  
-  - 🧾 **[Go Microservice Template](https://github.com/NithinAug/go-microservice-template)**  
-    Fully containerized Go + Gin + PostgreSQL microservice setup with Air, SQLC, Goose, and GoReleaser integration.
-
-  - ☁️ **[Cloud Automation Scripts](https://github.com/NithinAug/cloud-automation)**  
-    Infrastructure automation and deployment scripts using Docker, Bash, and GitHub Actions.
-
-  - ⚙️ **[Go Blueprint Project](https://github.com/NithinAug/goblueprint-project)**  
-    CLI tool for generating boilerplate Go project structures instantly.
-</details>
+#### 🗄️ Databases  
+`PostgreSQL` • `Redis`  
 
 ---
 
-<details>
-  <summary>📚 Currently Learning</summary>
-  <br>
-  - 🧠 Advanced **Go & Python backend design**  
-  - ☁️ **AWS** and **DigitalOcean** cloud deployment  
-  - 🐳 **Docker Compose** orchestration for microservices  
-  - 🚀 CI/CD pipelines using **GitHub Actions + GoReleaser**  
-  - 🧩 DevOps tools: **Kubernetes**, **Terraform**, and **Ansible**
-</details>
+### 📊 GitHub Stats
+
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinAug&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithinAug&theme=radical)
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinAug&layout=compact&theme=radical" height="165" />
-</p>
+### 🧮 Total Commits This Year
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NithinAug&theme=radical&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
+![Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithinAug&theme=react-dark&hide_border=true&area=true)
+
+📈 **Total commits this year:**  
+![Total Commits](https://github-readme-stats.vercel.app/api?username=NithinAug&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ---
 
-### 💡 Fun Fact
-> “The best backend is invisible — it just works.” ⚙️
+### 🌟 Featured Projects
+
+#### 🔹 [Hackstreet Hackathon](https://github.com/Hackstreet)
+> Open-source organization for backend, cloud, and automation projects.
+
+#### 🔹 [Go Microservices Starter](https://github.com/NithinAug/go-microservices-starter)
+> Pre-configured Go + Gin + PostgreSQL microservice boilerplate with Air, SQLC, Goose & Docker.
 
 ---
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 🧭 Fun Fact
+I love automating boring tasks and deploying scalable systems — one container at a time! 🐳  
 
 ---
 
-<p align="center">
-  <i>⭐ If you like what you see, consider giving some of my repos a star!</i>
-</p>
-
+⭐️ _"Build. Automate. Scale."_  
