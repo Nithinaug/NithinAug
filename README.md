@@ -64,6 +64,14 @@ Gin • FastAPI • GoReleaser • SQLC • Goose • Air
 
 ---
 
+### 🐍 [Python Projects](https://github.com/NithinAug/PYTHON)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python Projects"/>  
+</p>
+> A set of Python-based projects, including automation tools, data scripts, and the **Library Management System** built using Python + MySQL.  
+
+---
+
 ## 🧭 Fun Fact  
 I love automating boring tasks and deploying scalable systems — one container at a time! 🐳  
 
@@ -74,4 +82,4 @@ I love automating boring tasks and deploying scalable systems — one container 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithin-augustine-28bb56328/)  
 - ✉️ **Email:** nithinaug@gmail.com  
-- 🏢 **Organization:** [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)  
+- 🏢 **Organization:** [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)
