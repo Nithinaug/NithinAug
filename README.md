@@ -1,73 +1,68 @@
-<h1 align="center">Hi 👋, I'm Nithin Augustine</h1>
-<h3 align="center">Backend Developer | Cloud & DevOps Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NithinAug&label=Profile%20Views&color=0e75b6&style=flat" alt="NithinAug" />
-</p>
+# 👋 Hi, I'm Nithin Augustine  
+🚀 Backend Developer | Cloud & DevOps Enthusiast  
 
 ---
 
-### 🚀 About Me  
-- 🧠 Learning **Go**, **Docker**, **Kubernetes**, and **AWS**  
-- 💼 Currently working on **Go Projects**  
-- 💬 Ask me about **Go**, **SQLC**, **Cloud**, **CI/CD**, **Docker**, **Kubernetes**, **PostgreSQL**  
-- 🏢 Organization: **Hackstreet Hackathon**  
-- 📫 Reach me at: **nithin.augustine@example.com**
+## 🧠 About Me  
+💻 Passionate about Backend Development, Cloud Infrastructure, and DevOps Automation  
+🐍 Experienced with **Python**, **Go**, and **PostgreSQL**  
+☁️ Exploring **AWS**, **Docker**, **Kubernetes**, & **CI/CD pipelines**  
+⚡ Always learning and building scalable backend systems  
 
 ---
 
-### 🛠️ Languages and Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithin-augustine-28bb56328/)  
+- ✉️ **Email:** nithinaug@gmail.com  
+- 🏢 **Organization:** [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)  
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=radical" alt="NithinAug Stats" />
-</p>
+## 🛠️ Tech Stack  
+
+### 💻 Programming & Scripting  
+Python • Go • C++ • JavaScript  
+
+### ⚙️ Frameworks & Tools  
+Gin • FastAPI • Docker • Kubernetes • GoReleaser • SQLC • Goose • Air  
+
+### ☁️ Cloud & DevOps  
+AWS • GitHub Actions • CI/CD • Terraform  
+
+### 🗄️ Databases  
+PostgreSQL • Redis  
 
 ---
 
-### 🧮 Total Commits This Year  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NithinAug&theme=radical" alt="Total Commits" />
-</p>
+## 📊 GitHub Stats  
+
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinAug&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=NithinAug&theme=tokyonight)  
 
 ---
 
-### 📈 Dynamic Contribution Summary  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithinAug&theme=react-dark&hide_border=true" alt="Metrics" />
-</p>
+## 📈 Total Commits This Year  
+![Total Commits](https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=false&theme=tokyonight&hide_title=true&hide=prs,issues,contribs)  
 
 ---
 
-### 🧰 Featured Go Projects  
-- [Go Projects](https://github.com/NithinAug/GO)
+## 📊 Dynamic Contribution Summary  
+<img src="https://raw.githubusercontent.com/NithinAug/NithinAug/main/github-metrics.svg" alt="Metrics" width="100%">  
 
 ---
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NithinAug&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
+## 🌟 Featured Projects  
+
+🔹 [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)  
+> Open-source organization for backend, cloud, and automation projects.  
+
+🔹 [Go Projects](https://github.com/NithinAug/GO)  
+> A collection of Go-based microservices, automation tools, and backend experiments.  
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/nithin-augustine" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="mailto:nithin.augustine@example.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
-  </a>
-</p>
+## 🧭 Fun Fact  
+I love automating boring tasks and deploying scalable systems — one container at a time! 🐳  
+
+⭐️ *“Build. Automate. Scale.”*
