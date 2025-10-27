@@ -11,13 +11,6 @@
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithin-augustine-28bb56328/)  
-- ✉️ **Email:** nithinaug@gmail.com  
-- 🏢 **Organization:** [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)  
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming & Scripting  
@@ -76,3 +69,9 @@ I love automating boring tasks and deploying scalable systems — one container 
 
 ⭐️ *“Build. Automate. Scale.”*
 
+---
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithin-augustine-28bb56328/)  
+- ✉️ **Email:** nithinaug@gmail.com  
+- 🏢 **Organization:** [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)  
