@@ -1,106 +1,63 @@
-
-<!-- Plain text fallback so header always shows -->
-# 👋 Hi, I'm Nithin Augustine
-**🚀 Backend Developer | ☁️ Cloud & DevOps Enthusiast**  
-📍 Kochi, India
+# 👋 Hi, I'm Nithin Augustine  
+**🚀 Backend Developer | ☁️ Cloud & DevOps Enthusiast**
 
 ---
 
-<p align="center">
-  📍 <b>Kochi, India</b>
-</p>
+## 🧠 About Me
+💻 Passionate about Backend Development, Cloud Infrastructure, and DevOps Automation  
+🐍 Experienced with Python, Go, and PostgreSQL  
+☁️ Exploring AWS, Docker, Kubernetes & CI/CD pipelines  
+⚡ Always learning and building scalable backend systems  
 
 ---
 
-### 🧠 About Me
-💻 Passionate about **Backend Development**, **Cloud Infrastructure**, and **DevOps Automation**  
-🐍 Experienced with **Python**, **Go**, and **PostgreSQL**  
-☁️ Exploring **AWS**, **Docker**, **Kubernetes**, & **CI/CD pipelines**  
-⚡ Always learning and building **scalable backend systems**
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-augustine-28bb56328/)  
+📧 **Email:** nithinaug@gmail.com  
+🏢 **Organization:** [Hackstreet Hackathon](https://github.com/hackstreet-hackathon)
 
 ---
 
-### 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nithin-augustine-28bb56328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nithinaug@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Hackstreet-Hackathon">
-    <img src="https://img.shields.io/badge/Hackstreet%20Hackathon-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### 💻 Programming & Scripting
+Python • Go • C++ • JavaScript  
 
----
+### ⚙️ Frameworks & Tools
+Gin • FastAPI • Docker • Kubernetes • GoReleaser • SQLC • Goose • Air  
 
-### 🛠️ Tech Stack
+### ☁️ Cloud & DevOps
+AWS • GitHub Actions • CI/CD • Terraform  
 
-#### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### ⚙️ Frameworks & Tools
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![SQLC](https://img.shields.io/badge/SQLC-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Goose](https://img.shields.io/badge/Goose-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Air](https://img.shields.io/badge/Air-181717?style=for-the-badge&logo=go&logoColor=white)
-![GoReleaser](https://img.shields.io/badge/GoReleaser-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
-
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄️ Databases
+PostgreSQL • Redis  
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Stats (Auto-Updating)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinAug&layout=compact&theme=radical" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinAug&theme=radical" height="165">
-</p>
+![Nithin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithinAug&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithinAug&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=NithinAug&theme=tokyonight)
+![Total Commits This Year](https://badgen.net/github/commits/NithinAug)
 
 ---
 
-### 🧮 Commit Activity  
-
-![Commit Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithinAug&theme=react-dark&hide_border=true&area=true)  
-
-📈 **This Year’s Commit Activity:**  
-> The chart above auto-updates daily to show your total coding activity!
+## 🧮 Dynamic Contribution Summary
+![Metrics](./github-metrics.svg)
 
 ---
 
-### 🌟 Featured Projects  
+## 🌟 Featured Projects
+🔹 [Hackstreet Hackathon](https://github.com/hackstreet-hackathon)  
+Open-source organization for backend, cloud, and automation projects.  
 
-#### 🔹 [Hackstreet Hackathon](https://github.com/Hackstreet-Hackathon)
-> Open-source organization for backend, cloud, and automation projects.
-
-#### 🔹 [Go Projects](https://github.com/NithinAug/GO)
-> A collection of Go-based backend, cloud, and DevOps projects.
+🔹 [Go Projects](https://github.com/NithinAug/GO)  
+Collection of Go-based backend and microservice implementations with PostgreSQL, Docker & CI/CD tools.  
 
 ---
 
-### 🧭 Fun Fact  
+## 🧭 Fun Fact
 I love automating boring tasks and deploying scalable systems — one container at a time! 🐳  
 
----
-
-<h3 align="center">⭐️ "Build. Automate. Scale." ⭐️</h3>
+⭐️ *"Build. Automate. Scale."*
