@@ -1,6 +1,12 @@
+<!-- Animated typing SVG (works when allowed) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Nithin+Augustine;🚀+Backend+Developer;☁️+Cloud+%26+DevOps+Enthusiast;🐍+Python+%7C+Go+%7C+PostgreSQL;💡+Always+Building+Scalable+Systems!" alt="Typing SVG" />
 </p>
+
+<!-- Plain text fallback so header always shows -->
+# 👋 Hi, I'm Nithin Augustine
+**🚀 Backend Developer | ☁️ Cloud & DevOps Enthusiast**  
+📍 Kochi, India
 
 ---
 
