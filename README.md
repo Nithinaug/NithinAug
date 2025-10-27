@@ -6,7 +6,7 @@
 ## 🧠 About Me  
 💻 Passionate about Backend Development, Cloud Infrastructure, and DevOps Automation  
 🐍 Experienced with **Python**, **Go**, and **PostgreSQL**  
-☁️ Exploring **AWS**, **Docker**, **Kubernetes**, & **CI/CD pipelines**  
+☁️ Exploring **Docker**, **Kubernetes**, & **CI/CD pipelines**  
 ⚡ Always learning and building scalable backend systems  
 
 ---
@@ -33,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
 </p>
 
@@ -42,7 +41,6 @@ Gin • FastAPI • GoReleaser • SQLC • Goose • Air
 
 ### ☁️ Cloud & DevOps  
 <p align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40" height="40" alt="AWS"/>
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/>
 </p>
@@ -59,7 +57,7 @@ Gin • FastAPI • GoReleaser • SQLC • Goose • Air
 
 ### 🏢 [Hackstreet Hackathon](https://github.com/Hackstreet-hackathon)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Organization"/>  
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub Organization"/>  
 </p>
 > Open-source organization for backend, cloud, and automation projects.  
 
@@ -77,3 +75,4 @@ Gin • FastAPI • GoReleaser • SQLC • Goose • Air
 I love automating boring tasks and deploying scalable systems — one container at a time! 🐳  
 
 ⭐️ *“Build. Automate. Scale.”*
+
